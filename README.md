@@ -5,12 +5,30 @@
 - 헬스장 고객에게 홈트레이닝과 식단 관리, 운동 스케줄 관리를 제공합니다.
 
 ## 팀원
-1차 : 송해덕(팀장), 이강민
-2차 :
+ - 1차 : 송해덕(팀장), 이강민
+ - 2차 :
 
 ## 기능 명세서
-기능 명세서 
-- [노션](https://www.notion.so/native/4-f31cac450ed14448a1f58802cb9fef5d?pvs=4&deepLinkOpenNewTab=true)
+[기능 명세서 - 노션](https://www.notion.so/native/4-f31cac450ed14448a1f58802cb9fef5d?pvs=4&deepLinkOpenNewTab=true)
 
-ERD
+## ERD
 ![ERD](./엔티티.png)
+
+## 기술 및 스택
+
+### 백엔드
+- ![스프링부트](./스프링부트.jpeg)
+- ![도커](./docker.png)
+- ![레디스](./redis.png)
+
+### 데이터베이스
+![MySQL](./mysql.png)
+
+### 외부 API
+- 구글 맵 api
+- 네이버 OAuth
+- 구글 OAuth
+- 카카오 OAuth
+
+
+

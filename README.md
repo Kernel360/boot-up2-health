@@ -9,7 +9,7 @@
  - 2차 :
 
 ## 기능 명세서
-[기능 명세서 - 노션](https://www.notion.so/native/4-f31cac450ed14448a1f58802cb9fef5d?pvs=4&deepLinkOpenNewTab=true)
+[기능 명세서 - 노션](https://sincere-nova-ec6.notion.site/28c63946543741469dff21aebadc22d0?pvs=4)
 
 ## ERD
 ![ERD](./엔티티1.png)

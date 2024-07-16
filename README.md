@@ -17,12 +17,12 @@
 ## 기술 및 스택
 
 ### 백엔드
-- ![스프링부트](./스프링부트.jpeg)
-- ![도커](./docker.png)
-- ![레디스](./redis.png)
+- 스프링부트
+- Docker
+- Redis
 
 ### 데이터베이스
-![MySQL](./mysql.png)
+- MySQL
 
 ### 외부 API
 - 구글 맵 api

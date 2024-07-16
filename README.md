@@ -12,7 +12,8 @@
 [기능 명세서 - 노션](https://www.notion.so/native/4-f31cac450ed14448a1f58802cb9fef5d?pvs=4&deepLinkOpenNewTab=true)
 
 ## ERD
-![ERD](./엔티티.png)
+![ERD](./엔티티1.png)
+![ERD](./엔티티2.png)
 
 ## 데이터 흐름도
 

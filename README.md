@@ -37,14 +37,23 @@
 ### 관리자
 ![관리자-데이터흐름도](./관리자.png)
 
+
+## 시스템 아키텍처
+![image](https://github.com/user-attachments/assets/d8e5b1ac-fa38-49b0-b4c3-359405a592b4)
+
+
+
+
+
 ## 기술 및 스택
 
 ### 백엔드
 - Spring Boot
+- Spring Data JPA
 
 ### 프론트엔드 
 - node.js
-- Fabric.js
+- javascript
 - react
 
 ### 데이터베이스
@@ -52,8 +61,12 @@
 
 ### 외부 API
 - 구글 맵 api
-- 네이버 OAuth
-- 구글 OAuth
-- 카카오 OAuth
+- 네이버 OAuth2.0
+- 구글 OAuth2.0
+- 카카오 OAuth2.0
+
+### Library
+- Konva.js
+
 
 

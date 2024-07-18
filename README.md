@@ -22,10 +22,7 @@
    - 속성, 상세 기능, 목적 및 설명, API Path 추가
 
 ## ERD
-![ERD](./ER다이그램/엔티티1.png)
-![ERD](./ER다이그램/엔티티2.png)
 
-### 수정 ERD
 ![SSQPBsY5BpFKQKEo9 (2)](https://github.com/user-attachments/assets/89c3dde1-138e-4b9d-b556-0f6d9ad8e9b9)
 ![SSQPBsY5BpFKQKEo9](https://github.com/user-attachments/assets/6738c946-8503-4465-b325-7a1a8fac1de0)
 

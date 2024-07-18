@@ -47,25 +47,26 @@
 
 ## UX/UI
 
-![01_로그인](https://github.com/user-attachments/assets/4a0105da-d086-45b1-a95a-fd85dfd81ded)
-![02_헬스장 지도](https://github.com/user-attachments/assets/0a72dde6-aeb0-449b-97b1-f5405273955c)
-![03_헬스장 리스트](https://github.com/user-attachments/assets/c5338a57-4bc8-4274-9a1d-34f7faff83de)
-![04_임건우 헬스장 상세 정보](https://github.com/user-attachments/assets/2f60ee17-8983-48ad-b6a5-11a73e47f509)
-![05_일반 사용자 - 트레이너 조회](https://github.com/user-attachments/assets/25f27833-b343-4c51-8ad5-ebf80229c427)
-![06_Copy of 일반 사용자 - 트레이너 조회](https://github.com/user-attachments/assets/33efcae5-386b-459d-a168-7ad4f06f8e94)
-![07_임건우 마이페이지](https://github.com/user-attachments/assets/63a6de9e-fe93-44df-86b6-a56d1e293d6e)
+- 일반 사용자 화면
+<img src="https://github.com/user-attachments/assets/4a0105da-d086-45b1-a95a-fd85dfd81ded" alt="01_로그인" style="width: 200px;">
+<img src="https://github.com/user-attachments/assets/0a72dde6-aeb0-449b-97b1-f5405273955c" alt="02_헬스장 지도" style="width: 200px;">
+<img src="https://github.com/user-attachments/assets/c5338a57-4bc8-4274-9a1d-34f7faff83de" alt="03_헬스장 리스트" style="width: 200px;">
+<img src="https://github.com/user-attachments/assets/2f60ee17-8983-48ad-b6a5-11a73e47f509" alt="04_임건우 헬스장 상세 정보" style="width: 200px;">
+<img src="https://github.com/user-attachments/assets/25f27833-b343-4c51-8ad5-ebf80229c427" alt="05_일반 사용자 - 트레이너 조회" style="width: 200px;">
+<img src="https://github.com/user-attachments/assets/33efcae5-386b-459d-a168-7ad4f06f8e94" alt="06_Copy of 일반 사용자 - 트레이너 조회" style="width: 200px;">
+<img src="https://github.com/user-attachments/assets/63a6de9e-fe93-44df-86b6-a56d1e293d6e" alt="07_임건우 마이페이지" style="width: 200px;">
 
 - 입점 회원 화면
-![10_입점자 1](https://github.com/user-attachments/assets/d41f6099-0ac4-43fe-aa71-3f40342dfb20)
-![11_입점자 2](https://github.com/user-attachments/assets/2ec6e640-8edf-47ac-bbd8-e7a635564869)
-![12_입점자 2-1](https://github.com/user-attachments/assets/ad727cf0-8e54-40f1-81fd-d751aadaf5c8)
-![13_입점자 3](https://github.com/user-attachments/assets/e675cfbb-8226-40e7-a29e-a3f7792ead7d)
-![14_입점자 4](https://github.com/user-attachments/assets/51b5b008-273c-48de-8d06-719a02ad56a3)
+<img src="https://github.com/user-attachments/assets/d41f6099-0ac4-43fe-aa71-3f40342dfb20" alt="10_입점자 1" style="width: 200px;">
+<img src="https://github.com/user-attachments/assets/2ec6e640-8edf-47ac-bbd8-e7a635564869" alt="11_입점자 2" style="width: 200px;">
+<img src="https://github.com/user-attachments/assets/ad727cf0-8e54-40f1-81fd-d751aadaf5c8" alt="12_입점자 2-1" style="width: 200px;">
+<img src="https://github.com/user-attachments/assets/e675cfbb-8226-40e7-a29e-a3f7792ead7d" alt="13_입점자 3" style="width: 200px;">
+<img src="https://github.com/user-attachments/assets/51b5b008-273c-48de-8d06-719a02ad56a3" alt="14_입점자 4" style="width: 200px;">
 
 - 전체 관리자 화면
-![08_전체 관리자 - 일반 사용자](https://github.com/user-attachments/assets/89183ed6-c8b8-49fe-ab99-0c3d6b8860f2)
-![09_전체 관리자 - 기구 관리](https://github.com/user-attachments/assets/8c103125-dc91-462a-b4a5-d845ad3386b2)
-![06_전체 관리자 - 입점사 리스트](https://github.com/user-attachments/assets/04e7ba3e-9805-4808-a27b-b166d84f31de)
+<img src="https://github.com/user-attachments/assets/89183ed6-c8b8-49fe-ab99-0c3d6b8860f2" alt="08_전체 관리자 - 일반 사용자" style="width: 200px;">
+<img src="https://github.com/user-attachments/assets/8c103125-dc91-462a-b4a5-d845ad3386b2" alt="09_전체 관리자 - 기구 관리" style="width: 200px;">
+<img src="https://github.com/user-attachments/assets/04e7ba3e-9805-4808-a27b-b166d84f31de" alt="06_전체 관리자 - 입점사 리스트" style="width: 200px;">
 
 
 
